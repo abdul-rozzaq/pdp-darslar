@@ -1,0 +1,13 @@
+SSD va HDD farqi:
+    SSD (Solid State Drive) va HDD (Hard Disk Drive) ikkisi ham ma'lumotlarni saqlash qurilmalari. 
+    SSDda ma'lumotlar tezroq o'qiladi va yoziladi, chunki unda mexanik qismlar yo'q. HDD esa mexanik qismlar yordamida ishlaydi va ma'lumotlarni o'qish va yozish jarayoni sekinroq.
+
+Dastur:
+    Dastur – bu kompyuter yoki boshqa elektron qurilmalarga ma'lum vazifalarni bajarishni buyuradigan kodlar yig'indisi. Masalan, kalkulyator dasturi sonlarni qo'shish yoki ayirish vazifasini bajaradi.
+
+5 ta dasturlash tili:
+    C++
+    Python
+    JavaScript
+    Java
+    Ruby

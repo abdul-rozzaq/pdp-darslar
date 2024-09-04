@@ -1,0 +1,22 @@
+
+1. 3 MB va 8 KB jami necha KB ga teng?
+   3 MB = 3 * 1024 KB = 3072 KB
+   3072 KB + 8 KB = 3080 KB
+
+2. 7 GB va 11 MB jami necha KB ga teng?
+   7 GB = 7 * 1024 * 1024 KB = 7340032 KB
+   7340032 KB + 11 * 1024 KB = 7340032 KB + 11264 KB = 7351296 KB
+
+3. 3 MB va 82 KB jami necha Bayt ga teng?
+   3 MB = 3 * 1024 * 1024 Bayt = 3145728 Bayt
+   3145728 Bayt + 82 * 1024 Bayt = 3145728 Bayt + 83968 Bayt = 3229696 Bayt
+
+4. 12 Bayt va 8 KB jami necha Bit ga teng?
+   8 KB = 8 * 1024 * 8 Bit = 65536 Bit
+   12 Bayt * 8 Bit = 96 Bit
+   65536 Bit + 96 Bit = 65632 Bit
+
+5. 4 MB va 10 KB jami necha Bit ga teng?
+   4 MB = 4 * 1024 * 1024 * 8 Bit = 33554432 Bit
+   10 KB = 10 * 1024 * 8 Bit = 81920 Bit
+   33554432 Bit + 81920 Bit = 33636352 Bit
